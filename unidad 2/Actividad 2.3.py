@@ -2,11 +2,7 @@
 #   de interpolacion para determinar la raiz de
 #   una ecuacion
 # 
-#           Autor:
-#   Dr. Ivan de Jesus May-Cen
-#   imaycen@hotmail.com
-#   Version 1.0 : 11/02/2025
-#
+
 import numpy as np
 import matplotlib.pyplot as plt
 
