@@ -1,13 +1,3 @@
-#     Codigo que implementa el esquema numerico
-#     del metodo iterativo de Gauss-Seidel para
-#     resolver sistemas de ecuaciones
-#
-#         Autor:
-#     Dr. Ivan de Jesus May-Cen
-#     imaycen@hotmail.com
-#     Version 1.0 : 28/02/2025
-#
-
 import numpy as np
 import matplotlib.pyplot as plt
 import csv
